@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bandarqq.zetacomponents.org/sitemap.xml
